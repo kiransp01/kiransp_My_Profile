@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiransp01
-- 👀 I’m interested in working in IT industry..
+- 👀 I’m interested to working in IT industry..
 - 🌱 I’m currently updating my skills ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email : kiranspatil01@gmail.com
