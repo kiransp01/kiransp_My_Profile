@@ -21,7 +21,7 @@ Expertise in delivering complex, high-visibility projects. Able to establish str
 
 Profile Summary:
 _____________________________________________________________________
-•	Total 3.6+ years of experience in IT industry. In Functional  and Automation testing.
+•	Total 3.8+ years of experience in IT industry. In Functional  and Automation testing.
 
 •	Automation Testing Expertise: Over 1+ years of experience specializing in automating test cases using Selenium with Python. Skilled in detail problem-solving, reducing manual efforts, increasing efficiency, and enhancing test coverage through robust automation.
 
