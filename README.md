@@ -21,27 +21,23 @@ Expertise in delivering complex, high-visibility projects. Able to establish str
 
 Profile Summary:
 _____________________________________________________________________
-•	Total 3.8+ years of experience in IT industry. In Functional  and Automation testing.
+Result-driven QA Automation Engineer with 4 years of experience in the IT industry, specializing in functional and automation testing using Selenium with Python. Proficient in designing scalable frameworks using Pytest, automating test cases, and enhancing test coverage across web, API, and regression suites. Adept at working in Agile environments with hands-on expertise in JIRA, Zephyr, Postman, and CI/CD pipelines. Proven ability to reduce manual effort, ensure quality, and deliver high-performing applications across Banking, HR, E-commerce, and Storage domains.
 
-•	Automation Testing Expertise: Over 1+ years of experience specializing in automating test cases using Selenium with Python. Skilled in detail problem-solving, reducing manual efforts, increasing efficiency, and enhancing test coverage through robust automation.
+Core Competencies:
+__________________________________________________
+Test Automation: Selenium WebDriver with Python, Pytest, POM Framework
+API Testing: Postman, Python Requests
+Test Management: JIRA, Zephyr, Test Plans, RTM, Bug Lifecycle
+Frameworks: Data-Driven Testing, POM
+CI/CD: GitHub Actions, Jenkins (Basics)
+Version Control: Git, GitHub
+SDLC Models: Agile, V-Model, Spiral, Waterfall
+Database: Basic SQL, MySQL
+OS: Windows, Linux
+Other Tools: html Reports, XPath Mastery, ChatGPT/Gemini (for script optimization)
 
-•	Comprehensive Test Coverage: In-depth knowledge of writing, executing, and maintaining automated test scripts for functional, regression, smoke, and performance testing.
 
-•	Test Automation Framework Development: Contributed to developing reusable automation frameworks similar to pytest, data driven framework with Page Object Module design. Improving testing efficiency and scalability.
-
-•	Version Control Tools: Knowledge of git and github.
-
-•	Agile & SDLC Knowledge: Proficient in Agile methodologies, actively contributing to sprints, daily stand-ups, and retrospectives. Familiar with full SDLC, including requirement analysis, test planning, execution, and defect management.
-
-•	Advanced Tool Proficiency: Experienced with JIRA integrated with Zephyr for test management and defect tracking along with Postman (API testing). Hands on smoke, sanity, unit, integration, system, UAT, GUI, retest and regression testing methods. 
-
-•	Quality-Focused Automation: Proven ability to identify and resolve defects early in the development cycle, improving product quality and reducing time to market. Successfully automated high-priority business use cases, reducing the manual testing time by 40%.
-
-•	Strong knowledge in Build complex Xpath for locating elements (Xpath Methods-Starts with, Ends with, Contains, Sibling concepts - Preceding, Fallowing, Parent, Child and Ancestor, etc.)
-
-•	Contributed to developing reusable automation Hybrid-framework (selenium with python, pytest, data driven, Page Object Module, HTML reports). Improving testing efficiency and consistency.
-
-____________________________________________________________________
+___________________________________________________
 Technical Skills:
 
 •	Programming Language     :  Python
