@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kiransp01
-- 👀 I’m very passionate about playing with softwares ..
+- 👋 Hi, I’m An Automation tester ready to contribute my knowledge and techanical expertise with confidence to achive high accuracy outcomes.  
+- 👀 I’m very passionate about playing with software products,tools and new technologies  ..
 - 🌱 I’m currently updating my skills to Devops ...
 - 💞️ I’m having ability work under pressure / critical situations ...
 - 📫 How to reach me by email : krnpatilpatil01@gmail.com
